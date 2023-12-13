@@ -1,0 +1,62 @@
+{
+    "id": "8071b483-9503-412f-becb-f6d66cb2f328",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "{{manifest.app.name}}",
+    "logo": "/logo.png",
+    "devTools": true,
+    "keywords": [
+        "EVA",
+        "Effect Video Animate",
+        "VAP",
+        "Video Animation Player",
+        "AFX",
+        "AlphaPlayer"
+    ],
+    "fallbackLanguage": "zh_CN",
+    "languages": [
+        "de_DE",
+        "en",
+        "es_ES",
+        "ja_JP",
+        "ko_KR",
+        "ru_RU",
+        "zh_CN",
+        "zh_TW"
+    ],
+    "preview": {
+        "eva": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        },
+        "vap": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        },
+        "afx": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        },
+        "mp4": {
+            "thumbnail": {
+                "path": "thumbnail.js"
+            },
+            "viewer": {
+                "path": "viewer.html"
+            }
+        }
+    }
+}
