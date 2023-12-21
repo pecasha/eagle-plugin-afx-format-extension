@@ -1,11 +1,11 @@
 {
-    "name": "eagle-plugin-alpha-video-format-extension",
+    "name": "eagle-plugin-alpha-mp4-format-extension",
     "version": "1.0.0",
-    "description": "Eagle alpha-video format extension",
+    "description": "Eagle alpha-mp4 format extension",
     "author": "pecasha<chihai@pecasha.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/pecasha/eagle-plugin-alpha-video-format-extension.git"
+        "url": "https://github.com/pecasha/eagle-plugin-alpha-mp4-format-extension.git"
     },
     "files": [
         "dist"

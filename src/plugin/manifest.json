@@ -7,6 +7,7 @@
     "logo": "/logo.png",
     "devTools": true,
     "keywords": [
+        "Alpha MP4",
         "EVA",
         "Effect Video Animate",
         "VAP",
@@ -43,14 +44,6 @@
             }
         },
         "afx": {
-            "thumbnail": {
-                "path": "thumbnail.js"
-            },
-            "viewer": {
-                "path": "viewer.html"
-            }
-        },
-        "mp4": {
             "thumbnail": {
                 "path": "thumbnail.js"
             },

@@ -13,6 +13,6 @@ const filePath = urlParams.get("path");
     } catch (err) {
         console.error(err);
         const message = err.message || err || "未知错误";
-        eagle.log.error(`透明视频扩展插件错误: ${message}`);
+        eagle.log.error(`MP4 透明格式扩展插件错误: ${message}`);
     }
 })();
