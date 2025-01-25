@@ -36,3 +36,4 @@ pnpm run build:prod # npm run build:prod
 * 关于`VAP(Video Animation Player)`可[点击查看](https://github.com/Tencent/vap)。
 * 关于`AFX 透明视频`可[点击查看](https://smartprogram.baidu.com/docs/design/resource/animationVideo/)。
 * 因为相同的原理，所以插件也能够支持字节跳动`AlphaPlayer`的透明视频格式，但是您需要将视频扩展名修改为`.eva`才可使用插件预览。关于`AlphaPlayer`可[点击查看](https://github.com/bytedance/AlphaPlayer)。
+* 字节跳动(抖音)的透明视频如果是`.zip`压缩包格式，将后缀名修改为`.bav`即可预览。

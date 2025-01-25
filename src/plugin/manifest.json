@@ -27,23 +27,7 @@
         "zh_TW"
     ],
     "preview": {
-        "eva": {
-            "thumbnail": {
-                "path": "thumbnail.js"
-            },
-            "viewer": {
-                "path": "viewer.html"
-            }
-        },
-        "vap": {
-            "thumbnail": {
-                "path": "thumbnail.js"
-            },
-            "viewer": {
-                "path": "viewer.html"
-            }
-        },
-        "afx": {
+        "eva,vap,afx,bav": {
             "thumbnail": {
                 "path": "thumbnail.js"
             },
